@@ -1,10 +1,21 @@
-# co63f4a65ac316545d08e1674
+# Quizzical - Trivia Quiz App
 
-Quick start:
+Welcome to the Quizzical app! This solo project, developed as part of the Scrimba Frontend Developer Career Path, is a dynamic web application that allows users to test their trivia knowledge across various topics. The application fetches questions from a trivia API and provides immediate feedback on answers, culminating in a results screen that highlights users' performance.
+
+## Features
+
+- Dynamic question generation from an API.
+- Immediate feedback on selected answers.
+- Results summary page with correct answer highlights.
+- Responsive design for desktop and mobile users.
+
+## Quick Start
+
+To get started with the Quizzical app, you can clone the repository and install dependencies:
 
 ```
-$ yarn # npm install
-$ yarn build # npm run build
+$ yarn # or npm install
+$ yarn build # or npm run build
 ````
 
 ## Development
@@ -12,7 +23,7 @@ $ yarn build # npm run build
 Run Webpack in watch-mode to continually compile the JavaScript as you work:
 
 ```
-$ yarn watch # npm run watch
+$ yarn watch # or npm run watch
 ```
 
 ## About Scrimba
