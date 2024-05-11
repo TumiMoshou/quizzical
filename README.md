@@ -1,13 +1,18 @@
 # Quizzical - Trivia Quiz App
 
-Welcome to the Quizzical app! This solo project, developed as part of the Scrimba Frontend Developer Career Path, is a dynamic web application that allows users to test their trivia knowledge across various topics. The application fetches questions from a trivia API and provides immediate feedback on answers, culminating in a results screen that highlights users' performance.
+Welcome to the Quizzical app! This solo project, which I developed as part of the Scrimba Frontend Developer Career Path, is a dynamic web application that allows users to test their trivia knowledge across various topics. The application fetches questions from a trivia API and provides immediate feedback on answers.
+
+![Quizzical App Screenshot](quizzical-screenshot.png)
 
 ## Features
 
 - Dynamic question generation from an API.
 - Immediate feedback on selected answers.
 - Results summary page with correct answer highlights.
-- Responsive design for desktop and mobile users.
+
+## Live Demo
+
+You can try out the live version of the app here: [Quizzical Live Demo](https://calm-vacherin-07a408.netlify.app/)
 
 ## Quick Start
 
